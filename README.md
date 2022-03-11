@@ -1,5 +1,3 @@
-<!-- [![Website header. Get in touch to learn more!](./assets/website.png)](mailto:elvedinc97@gmail.com)
-[www.elvedincekic.com](https://elvedincekic.com/) -->
 ## Hello!
 > I am a software engineer located in the DC metro area. With a background in athletic development, I thrive in team based environments where cooperation and communication is imperative. After coaching with young athletes, I have learned to love and appreciate the process of reaching a common goal.
 
